@@ -30,8 +30,6 @@ else if(grade <= 84){
 else if(grade <= 89){
     console.log("You got GPA 'A'");
 }
-else if(grade <= 100){
-    console.log("you got 'A+'");
-}else{
+else{
     console.log('you input a wrong number');
 }
